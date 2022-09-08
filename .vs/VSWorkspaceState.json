@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\code",
+    "\\code\\chapter1",
+    "\\code\\chapter2",
+    "\\code\\chapter2\\sample",
+    "\\code\\chapter2\\sample\\matchers",
+    "\\code\\chapter2\\sample\\search",
+    "\\code\\chapter3\\dbdriver",
+    "\\code\\chapter3\\wordcount",
+    "\\hello_world"
+  ],
+  "SelectedNode": "\\code\\chapter1\\channels\\hellochannels.go",
+  "PreviewInSolutionExplorer": false
+}
